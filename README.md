@@ -1,1 +1,3 @@
-# pipes_and_pockets
+### pipes_and_pockets
+
+Exploring approaches to creating data pipelines..
